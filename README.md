@@ -7,4 +7,4 @@
 ### ranlux48_base
 [Cplusplus ranlux48 Reference Page](https://cplusplus.com/reference/random/ranlux48_base/)
 - Example classes and functions
-  - cpp_random/
+  - [ranlux48 class example](https://github.com/gbc-matthew/cpp_random/blob/main/ranlux48.cpp)
